@@ -90,7 +90,7 @@ button:hover{
     display: inline-block;
 }
 
-@media screen and (max-width :375px){ 
+@media screen and (max-width :450px){ 
     .rating-box,.ty-box{
        
         width: 80%;
